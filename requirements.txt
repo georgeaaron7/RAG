@@ -1,0 +1,9 @@
+os
+json
+IPython
+langchain
+langchain_core
+langchain_google_genai
+langchain_community
+mistralai
+jupyter
